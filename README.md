@@ -5,6 +5,7 @@ Bienvenu sur le README de VOCAB_SENTENCE_GENERATOR
 
 Pour utiliser le programme contenu dans le dossier il faut :
 
+
 1 - Télécharger le dossier
 2 - Lancer un terminal au dossier
 3 - Taper la ligne de commande "pipenv shell"

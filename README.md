@@ -7,11 +7,11 @@ Pour utiliser le programme contenu dans le dossier il faut :
 
 
 1 - Télécharger le dossier            
-2 - Lancer un terminal au dossier
-3 - Taper la ligne de commande "pipenv shell"
-4 - Toujours au niveau du dossier Django écrire dans le terminal "python manage.py runserver"
-5 - Aller sur un navigateur et tapez l'adresse suivante : "http://127.0.0.1:8000"
-6 - Normalement vous devez tomber sur mon projet ! Amusez-vous bien !
+2 - Lancer un terminal au dossier             
+3 - Taper la ligne de commande "pipenv shell"                 
+4 - Toujours au niveau du dossier Django écrire dans le terminal "python manage.py runserver"         
+5 - Aller sur un navigateur et tapez l'adresse suivante : "http://127.0.0.1:8000"           
+6 - Normalement vous devez tomber sur mon projet ! Amusez-vous bien !           
 
 
 

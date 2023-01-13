@@ -14,10 +14,16 @@ Pour utiliser le programme contenu dans le dossier il faut :
 6 - Normalement vous devez tomber sur mon projet ! Amusez-vous bien !           
 
 
-
+          
+              
+                    
+                      
 
 L'essentiel du programme est contenu dans quelques fichiers :
 
+            
+                  
+                    
 
 templates/{% static scripts/home.html      ---> le contenu visible en html
 

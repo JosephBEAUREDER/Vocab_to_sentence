@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    {% block content %}
+    <p>Mon nom est {{ nom }}.</p>
+
+<p>Voici mes hobbies :</p>
+<ul>
+    {% for hobbie in hobbies %}
+    <li>{{ hobbie }}</li>
+    {% endfor %}
+</ul>
+
+<p>Mais j'aime particulièrement le {{ hobbies.0 }} !</p>
+
+{% endblock %}
+</body>
+</html>

@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1> résultat de l'analyse :</h1>
+
+
+{% for token in tokens %}
+<p> {{token[0] }} : {{token[1]}} {{toke[2]}} </p>
+
+{% endfor %}
+
+{% endblock %}

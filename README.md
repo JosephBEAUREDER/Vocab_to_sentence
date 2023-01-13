@@ -23,3 +23,4 @@ templates/{% static scripts/home.html      ---> le contenu visible en html
 static/home.js    ---> le javascript de la page home.html
 
 myApp/views.py   ---> tout le code qui tourne sur le serveur
+

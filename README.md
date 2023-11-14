@@ -1,4 +1,6 @@
-# Vocab_to_sentence #language_learning
+# Vocab_to_sentence 
+
+#language_learning
 
 Here is a website I created for the course "Langage Learning and NLP" of my master program.
 
